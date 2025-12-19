@@ -1,0 +1,21 @@
+RAPPORT D'ANALYSE 
+LA base de données Heart Disease contient 303 Patients et 13 variables et 1 resultat pluisieur dossier ,
+alors pour notre cas qui consite a predire la maladie du coeur nous allons nous centrer sur la base 
+de données Cleveland qui contint les données traité et non traiter 
+Nous allons utilisés un fichier cintenu dans centrerdossier quyi se nomme "processed.Cleveland.data"
+que nous allons concvertir en ficher csv qui sera "heart_disease.csv"
+les variables presentes:
+0 age        
+1 sexe
+2 cp: type de douleur thoracique
+3 trestbps : pression artérielle
+4 chol : cholestérol
+5 fbs: glycémie à jeun
+6 restecg : electrocardiogramme
+7 thalach : fréquence cardiaque max
+8 exang : douleur à l'effort
+9 oldpeak : fatigue du cœur
+10 slope : perte du rythme cardiaque
+11 ca : vaisseaux bouchés
+12 thal : anomalie cardiaque
+13 target : maladie du cœur
